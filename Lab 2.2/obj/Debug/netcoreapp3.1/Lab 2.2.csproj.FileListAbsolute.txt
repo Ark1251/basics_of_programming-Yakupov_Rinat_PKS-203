@@ -1,0 +1,16 @@
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\bin\Debug\netcoreapp3.1\Lab 2.2.exe
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\bin\Debug\netcoreapp3.1\Lab 2.2.deps.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\bin\Debug\netcoreapp3.1\Lab 2.2.runtimeconfig.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\bin\Debug\netcoreapp3.1\Lab 2.2.runtimeconfig.dev.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\bin\Debug\netcoreapp3.1\Lab 2.2.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\bin\Debug\netcoreapp3.1\Lab 2.2.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\obj\Debug\netcoreapp3.1\Lab 2.2.csproj.AssemblyReference.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\obj\Debug\netcoreapp3.1\Lab_2._2.Form1.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\obj\Debug\netcoreapp3.1\Lab 2.2.csproj.GenerateResource.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\obj\Debug\netcoreapp3.1\Lab 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\obj\Debug\netcoreapp3.1\Lab 2.2.AssemblyInfoInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\obj\Debug\netcoreapp3.1\Lab 2.2.AssemblyInfo.cs
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\obj\Debug\netcoreapp3.1\Lab 2.2.csproj.CoreCompileInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\obj\Debug\netcoreapp3.1\Lab 2.2.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\obj\Debug\netcoreapp3.1\Lab 2.2.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Lab 2\Lab 2.2\obj\Debug\netcoreapp3.1\Lab 2.2.genruntimeconfig.cache
