@@ -1,0 +1,19 @@
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\bin\Debug\net5.0-windows\Lab 1.4.exe
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\bin\Debug\net5.0-windows\Lab 1.4.deps.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\bin\Debug\net5.0-windows\Lab 1.4.runtimeconfig.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\bin\Debug\net5.0-windows\Lab 1.4.runtimeconfig.dev.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\bin\Debug\net5.0-windows\Lab 1.4.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\bin\Debug\net5.0-windows\ref\Lab 1.4.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\bin\Debug\net5.0-windows\Lab 1.4.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\Lab_1._4.ChildForm.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\Lab_1._4.ParentForm.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\Lab_1._4.Properties.Resources.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\Lab 1.4.csproj.GenerateResource.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\Lab 1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\Lab 1.4.AssemblyInfoInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\Lab 1.4.AssemblyInfo.cs
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\Lab 1.4.csproj.CoreCompileInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\Lab 1.4.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\ref\Lab 1.4.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\Lab 1.4.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\1\Lab 1.4(Доделать)\obj\Debug\net5.0-windows\Lab 1.4.genruntimeconfig.cache
