@@ -1,0 +1,10 @@
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\7\Lab 7.2\bin\Debug\Lab 7.2.exe.config
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\7\Lab 7.2\bin\Debug\Lab 7.2.exe
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\7\Lab 7.2\bin\Debug\Lab 7.2.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\7\Lab 7.2\obj\Debug\Lab 7.2.csproj.AssemblyReference.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\7\Lab 7.2\obj\Debug\Lab_7._2.Form1.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\7\Lab 7.2\obj\Debug\Lab_7._2.Properties.Resources.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\7\Lab 7.2\obj\Debug\Lab 7.2.csproj.GenerateResource.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\7\Lab 7.2\obj\Debug\Lab 7.2.csproj.CoreCompileInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\7\Lab 7.2\obj\Debug\Lab 7.2.exe
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\7\Lab 7.2\obj\Debug\Lab 7.2.pdb
