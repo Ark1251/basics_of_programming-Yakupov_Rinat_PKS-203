@@ -1,0 +1,22 @@
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Дополнительные\Lab DOP_1.2\bin\Debug\Lab DOP_1.2.exe.config
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Дополнительные\Lab DOP_1.2\bin\Debug\Lab DOP_1.2.exe
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Дополнительные\Lab DOP_1.2\bin\Debug\Lab DOP_1.2.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Дополнительные\Lab DOP_1.2\obj\Debug\Lab DOP_1.2.csproj.AssemblyReference.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Дополнительные\Lab DOP_1.2\obj\Debug\Lab_DOP_1._2.Form2.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Дополнительные\Lab DOP_1.2\obj\Debug\Lab_DOP_1._2.Properties.Resources.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Дополнительные\Lab DOP_1.2\obj\Debug\Lab_DOP_1._2.StartForm.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Дополнительные\Lab DOP_1.2\obj\Debug\Lab DOP_1.2.csproj.GenerateResource.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Дополнительные\Lab DOP_1.2\obj\Debug\Lab DOP_1.2.csproj.CoreCompileInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Дополнительные\Lab DOP_1.2\obj\Debug\Lab DOP_1.2.exe
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Дополнительные\Lab DOP_1.2\obj\Debug\Lab DOP_1.2.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\Дополнительные\Lab DOP_1.2\bin\Debug\Lab DOP_1.2.exe.config
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\Дополнительные\Lab DOP_1.2\bin\Debug\Lab DOP_1.2.exe
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\Дополнительные\Lab DOP_1.2\bin\Debug\Lab DOP_1.2.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\Дополнительные\Lab DOP_1.2\obj\Debug\Lab DOP_1.2.csproj.AssemblyReference.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\Дополнительные\Lab DOP_1.2\obj\Debug\Lab_DOP_1._2.Properties.Resources.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\Дополнительные\Lab DOP_1.2\obj\Debug\Lab_DOP_1._2.StartForm.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\Дополнительные\Lab DOP_1.2\obj\Debug\Lab DOP_1.2.csproj.GenerateResource.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\Дополнительные\Lab DOP_1.2\obj\Debug\Lab DOP_1.2.csproj.CoreCompileInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\Дополнительные\Lab DOP_1.2\obj\Debug\Lab DOP_1.2.exe
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\Дополнительные\Lab DOP_1.2\obj\Debug\Lab DOP_1.2.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\Дополнительные\Lab DOP_1.2\obj\Debug\Lab_DOP_1._2.Form1.resources
