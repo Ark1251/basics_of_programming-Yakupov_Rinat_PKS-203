@@ -1,0 +1,12 @@
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\bin\Debug\netcoreapp3.1\WinFormsControlLibrary1.deps.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\bin\Debug\netcoreapp3.1\WinFormsControlLibrary1.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\bin\Debug\netcoreapp3.1\WinFormsControlLibrary1.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.csproj.AssemblyReference.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.UserControl1.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.AssemblyInfoInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.AssemblyInfo.cs
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\WinFormsControlLibrary1\obj\Debug\netcoreapp3.1\WinFormsControlLibrary1.pdb
