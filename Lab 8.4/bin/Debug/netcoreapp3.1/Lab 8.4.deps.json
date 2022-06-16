@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab 8.4/1.0.0": {
+        "runtime": {
+          "Lab 8.4.dll": {}
+        },
+        "resources": {
+          "en-VI/Lab 8.4.resources.dll": {
+            "locale": "en-VI"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab 8.4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
