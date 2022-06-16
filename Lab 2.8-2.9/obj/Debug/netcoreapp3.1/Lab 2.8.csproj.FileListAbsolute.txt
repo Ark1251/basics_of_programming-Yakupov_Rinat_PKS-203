@@ -1,0 +1,16 @@
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\bin\Debug\netcoreapp3.1\Lab 2.8.exe
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\bin\Debug\netcoreapp3.1\Lab 2.8.deps.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\bin\Debug\netcoreapp3.1\Lab 2.8.runtimeconfig.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\bin\Debug\netcoreapp3.1\Lab 2.8.runtimeconfig.dev.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\bin\Debug\netcoreapp3.1\Lab 2.8.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\bin\Debug\netcoreapp3.1\Lab 2.8.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\obj\Debug\netcoreapp3.1\Lab 2.8.csproj.AssemblyReference.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\obj\Debug\netcoreapp3.1\Lab_2._8.Form1.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\obj\Debug\netcoreapp3.1\Lab 2.8.csproj.GenerateResource.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\obj\Debug\netcoreapp3.1\Lab 2.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\obj\Debug\netcoreapp3.1\Lab 2.8.AssemblyInfoInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\obj\Debug\netcoreapp3.1\Lab 2.8.AssemblyInfo.cs
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\obj\Debug\netcoreapp3.1\Lab 2.8.csproj.CoreCompileInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\obj\Debug\netcoreapp3.1\Lab 2.8.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\obj\Debug\netcoreapp3.1\Lab 2.8.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Первые лабы\Lab 2.8\obj\Debug\netcoreapp3.1\Lab 2.8.genruntimeconfig.cache
