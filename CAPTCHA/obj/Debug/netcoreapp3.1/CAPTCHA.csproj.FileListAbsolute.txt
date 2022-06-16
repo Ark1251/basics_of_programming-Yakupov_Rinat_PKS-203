@@ -1,0 +1,36 @@
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.csproj.AssemblyReference.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.Authorization.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.Captcha.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.csproj.GenerateResource.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.AssemblyInfoInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.AssemblyInfo.cs
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.csproj.CoreCompileInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.exe
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.deps.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.runtimeconfig.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.runtimeconfig.dev.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\Разработка Windows приложений на C#\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.genruntimeconfig.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.exe
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.deps.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.runtimeconfig.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.runtimeconfig.dev.json
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\bin\Debug\netcoreapp3.1\CAPTCHA.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.csproj.AssemblyReference.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.Authorization.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.Captcha.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.csproj.GenerateResource.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.AssemblyInfoInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.AssemblyInfo.cs
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.csproj.CoreCompileInputs.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.dll
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.pdb
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.genruntimeconfig.cache
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.Properties.Resources.resources
+C:\Users\rinho\OneDrive\Рабочий стол\ФАЙЛЫ\Мои\Programming\programm homework\Windows Form\laboratory work\CAPTCHA\obj\Debug\netcoreapp3.1\CAPTCHA.FormToOpen.resources
